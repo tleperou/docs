@@ -5,7 +5,7 @@
 3. Beyong Angular, ambitious Ember's concepts (Engines, Initializers, ...)
 
 
-# Table of content
+# EmberJS way
 
 1. Component, template and life cycle hooks --> glimmer component & Handlebars
 2. Data and event bindings --> args, tracked & DDAU
