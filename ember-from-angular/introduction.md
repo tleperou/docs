@@ -1,7 +1,7 @@
-Introduction
+# Introduction
 
-# Benefits to move from Angular to EmberJS
+## Benefits to move from Angular to EmberJS
 
-# Main similarities and differences
+## Main similarities and differences
 
-# Beyong Angular, ambitious Ember's concepts (Engines, Initializers, ...)
+## Beyong Angular, ambitious Ember's concepts (Engines, Initializers, ...)
